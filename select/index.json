@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "なかよし!〇!なかよし!",
+  "base_artist": "チマメ隊",
+  "createdAt": "2026-02-20T15:24:16.246524Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "なかよし!〇!なかよし!",
+      "artist": "チマメ隊",
+      "has_synced": true,
+      "path": "select/01_なかよし!〇!なかよし!_チマメ隊.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "なかよし!〇!なかよし!",
+      "artist": "チマメ隊(チノ(CV.水瀬いのり)、マヤ(CV.徳井青空)、メグ(CV.村川梨衣))",
+      "has_synced": true,
+      "path": "select/02_なかよし!〇!なかよし!_チマメ隊(チノ(CV.水瀬いのり)、マヤ(CV.徳井青空)、メグ(CV.村川梨衣)).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なかよし!〇!なかよし!",
+      "artist": "チマメ隊",
+      "has_synced": false,
+      "path": "select/pl_01_なかよし!〇!なかよし!_チマメ隊.txt"
+    }
+  ]
+}
